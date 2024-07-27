@@ -21,6 +21,4 @@ Keesokan harinya, kami hanya beberes posko sebentar sembari memikirkan proker. D
 
 {{< figure src="/images/kkn/tpq.jpeg" alt="Pendampingan TPQ" caption="Pendampingan TPQ" >}}
 
-{{< figure src="/images/kkn/fotobocil.jpeg" alt="Foto Bersama Anak Kecil di Posko" caption="Bonus Foto Hari Ini :D" >}}
-
-
+{{< figure src="/images/kkn/fotobocil.jpeg" alt="Foto Bersama Anak Kecil di Posko" caption="Bonus Foto Hari Ini :D"  width="400px">}}
