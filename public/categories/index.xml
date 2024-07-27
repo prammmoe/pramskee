@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ikhwan Pramuditha&#39;s Personal Blog</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Ikhwan Pramuditha&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ikhwan Pramuditha</copyright>
+    <lastBuildDate>Sat, 20 Jul 2024 00:24:28 +0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>self-reflection</title>
+      <link>/categories/self-reflection/</link>
+      <pubDate>Sat, 20 Jul 2024 00:24:28 +0700</pubDate>
+      
+      <guid>/categories/self-reflection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

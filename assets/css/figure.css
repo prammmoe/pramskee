@@ -1,0 +1,17 @@
+figure {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 5px;
+}
